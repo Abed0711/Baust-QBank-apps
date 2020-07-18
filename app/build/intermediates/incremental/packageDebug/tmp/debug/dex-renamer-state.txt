@@ -1,0 +1,4 @@
+#Sat Jul 18 08:26:08 BDT 2020
+base.0=D\:\\Project\\Android-Animated-Splash-Screen-Method-1---Lottie-Animation-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
