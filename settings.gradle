@@ -1,2 +1,2 @@
-rootProject.name='SplashExample1'
 include ':app'
+rootProject.name = "Baust Question Bank"

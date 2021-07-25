@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030939949925",
+    "project_id": "baust-question-bank-7e0b0",
+    "storage_bucket": "baust-question-bank-7e0b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030939949925:android:9a34d011e85442ef097f8c",
+        "android_client_info": {
+          "package_name": "com.example.baustquestionbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030939949925-s9232tav9r87gmcfenptvh2tm3d15nmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baustquestionbank",
+            "certificate_hash": "2451cd2abde5739a08527ff90cd7544e116ba87d"
+          }
+        },
+        {
+          "client_id": "1030939949925-f1fnn0r3br1bdmerkh4ccofoubdmn3t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQDNd_s7j20sGTRhCkoTHYh_83YKBfm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030939949925-f1fnn0r3br1bdmerkh4ccofoubdmn3t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

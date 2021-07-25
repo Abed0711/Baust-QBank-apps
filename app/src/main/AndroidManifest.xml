@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yt.splashexample1">
+    package="com.example.baustquestionbank">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/logo"
+        android:icon="@drawable/baust"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/logo"
+        android:roundIcon="@drawable/baust"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        android:usesCleartextTraffic="true">
-        <activity android:name=".Main2Activity"></activity>
+        android:theme="@style/AppTheme">
+        <activity android:name=".chem1201"></activity>
+        <activity android:name=".math1243" />
+        <activity android:name=".eee1269" />
+        <activity android:name=".cse1203" />
+        <activity android:name=".cse1201" />
+        <activity android:name=".cse_l1t2" />
+        <activity android:name=".Hum_1101" />
+        <activity android:name=".Phy_1103" />
+        <activity android:name=".Math_1141" />
+        <activity android:name=".Me_1181" />
+        <activity android:name=".Eee_1163" />
+        <activity android:name=".cse_1101" />
+        <activity android:name=".Csel1t1" />
+        <activity android:name=".View_PDF_Files" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
